@@ -1,6 +1,6 @@
 # tuya-esp
 
-This is a continuation of [esp-ubus](https://github.com/XNZC/esp-ubus) project. This project uses esp-ubus features and lets control esp devices via tuya-iot cloud platform.
+This is a continuation of [esp-ubus](https://github.com/XNZC/esp-ubus) project. This project uses esp-ubus features and lets control esp devices via tuya-iot cloud platform using UBUS.
 
 ## Features
   + Control and monitor ESP device's GPIO, temp sensors via TUYA cloud platform
